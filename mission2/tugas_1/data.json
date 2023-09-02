@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Kamera",
+      "price": 100000,
+      "quantity": 0,
+      "image": "asset/kamera.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kulkas Mini",
+      "price": 200000,
+      "quantity": 0,
+      "image": "asset/kulkas.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Panci Listrik",
+      "price": 150000,
+      "quantity": 0,
+      "image": "asset/panci.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rice Cooker",
+      "price":500000,
+      "quantity":0,
+      "image": "asset/ricecooker.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Meja Belajar",
+      "price":500000,
+      "quantity":0,
+      "image": "asset/meja.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Botol Minum",
+      "price":90000,
+      "quantity":0,
+      "image": "asset/meja.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Beras",
+      "price":60000,
+      "quantity":0,
+      "image": "asset/meja.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jemuran",
+      "price":50000,
+      "quantity":0,
+      "image": "asset/meja.jpg"
+    }
+  ]
+  
