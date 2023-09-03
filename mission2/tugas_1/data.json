@@ -1,59 +1,58 @@
 [
     {
       "id": 1,
-      "name": "Kamera",
-      "price": 100000,
+      "name": "Rak Sepatu",
+      "price": 60000,
       "quantity": 0,
-      "image": "asset/kamera.jpg"
+      "image": "asset/rak.png"
     },
     {
       "id": 2,
       "name": "Kulkas Mini",
-      "price": 200000,
+      "price": 900000,
       "quantity": 0,
-      "image": "asset/kulkas.jpg"
+      "image": "asset/kulkas.png"
     },
     {
       "id": 3,
       "name": "Panci Listrik",
       "price": 150000,
       "quantity": 0,
-      "image": "asset/panci.jpg"
+      "image": "asset/panci.png"
     },
     {
       "id": 4,
       "name": "Rice Cooker",
       "price":500000,
       "quantity":0,
-      "image": "asset/ricecooker.jpg"
+      "image": "asset/ricecooker.png"
     },
     {
       "id": 5,
       "name": "Meja Belajar",
-      "price":500000,
+      "price":200000,
       "quantity":0,
-      "image": "asset/meja.jpg"
+      "image": "asset/meja.png"
     },
     {
       "id": 6,
-      "name": "Botol Minum",
-      "price":90000,
+      "name": "Tumblr",
+      "price":100000,
       "quantity":0,
-      "image": "asset/meja.jpg"
+      "image": "asset/tumblr.png"
     },
     {
       "id": 7,
-      "name": "Beras",
-      "price":60000,
+      "name": "Tolak Angin",
+      "price":1000,
       "quantity":0,
-      "image": "asset/meja.jpg"
+      "image": "asset/tolakangin.png"
     },
     {
       "id": 8,
       "name": "Jemuran",
       "price":50000,
       "quantity":0,
-      "image": "asset/meja.jpg"
+      "image": "asset/jemuran.png"
     }
   ]
-  
