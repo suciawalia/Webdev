@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Katalog Barang</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body style="background-color: aliceblue;">
+  <div>
+    <h1>Toko Anak Kos</h1>
+    <div id="barang" class="horizontal"></div>
+    <script src="main.js"></script>
+  </div>
+  <div id="cart">
+    <h2>Keranjang</h2>
+    <ul id="brgKeranjang"></ul>
+  </div>
+  <div id="posisi" class="posisi">
+    <p id="subtotal">Total Pembelian: Rp 0</p>
+    <p id="pajak">Pajak (11%): Rp 0</p>
+    <p id="total">Total Bayar: Rp 0</p>
+    <button id="bayarButton" class="custom-button">Bayar</button>
+    <div id="strukPembayaran" style="display: none;">
+      <h2>Struk Pembayaran</h2>
+      <div id="detailPembayaran"></div>
+    </div>
+  </div>
+</body>
+</html>

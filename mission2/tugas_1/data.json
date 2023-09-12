@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Rak Sepatu",
+      "price": 60000,
+      "quantity": 0,
+      "image": "asset/rak.png"
+    },
+    {
+      "id": 2,
+      "name": "Kulkas Mini",
+      "price": 900000,
+      "quantity": 0,
+      "image": "asset/kulkas.png"
+    },
+    {
+      "id": 3,
+      "name": "Panci Listrik",
+      "price": 150000,
+      "quantity": 0,
+      "image": "asset/panci.png"
+    },
+    {
+      "id": 4,
+      "name": "Rice Cooker",
+      "price":500000,
+      "quantity":0,
+      "image": "asset/ricecooker.png"
+    },
+    {
+      "id": 5,
+      "name": "Meja Belajar",
+      "price":200000,
+      "quantity":0,
+      "image": "asset/meja.png"
+    },
+    {
+      "id": 6,
+      "name": "Tumblr",
+      "price":100000,
+      "quantity":0,
+      "image": "asset/tumblr.png"
+    },
+    {
+      "id": 7,
+      "name": "Tolak Angin",
+      "price":1000,
+      "quantity":0,
+      "image": "asset/tolakangin.png"
+    },
+    {
+      "id": 8,
+      "name": "Jemuran",
+      "price":50000,
+      "quantity":0,
+      "image": "asset/jemuran.png"
+    }
+  ]
